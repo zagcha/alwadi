@@ -634,7 +634,7 @@ li#chat__footer__menu__rooms_item span.badge.count {
 
 .fa-gear:before, .fa-cog:before {
     font-size: 14px;
-    content: "\f013 Ø§Ù„Ø¶Ø¨Ø· ";
+    content: "\f013  ";
     font-weight: 600;
 }
 li#chat__footer__menu__live_item {
